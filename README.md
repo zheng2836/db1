@@ -13,7 +13,7 @@
 
 ## 部署到 Cloudflare
 
-### 步骤 1: 创建 GitHub 仓库
+### 步骤 1: 创建 GitHub 仓
 将此代码推送到你的 GitHub 仓库
 
 ### 步骤 2: 连接 Cloudflare Pages
